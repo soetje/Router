@@ -5,7 +5,6 @@ import AboutPage from "./pages/AboutPage"
 import DiscoverMoviesPage from "./pages/DiscoverMoviesPage"
 import NavBar from "./components/NavBar"
 import "./style/App.css"
-// import "./src/style/global.scss"
 
 function App() {
   return (
